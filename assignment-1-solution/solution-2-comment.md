@@ -5,7 +5,8 @@
 - We can use comments to explain our code, 
 - It can help us when you edit the source code at a later date. 
 - An HTML comment begins with <! –– and the comment closes with––>
-   ![image](https://github.com/aradhanayada/PW-assignment1-solution/assets/103102710/2ef69879-349d-4b3e-a7dd-009fddb2ef05)
+
+  ![image](https://github.com/aradhanayada/PW-assignment1-solution/assets/103102710/2ef69879-349d-4b3e-a7dd-009fddb2ef05)
 
 - Types of comments are:
     - **Single-line comment:**  Single line comment is given inside the ( <!–  comment –> ) tag.
