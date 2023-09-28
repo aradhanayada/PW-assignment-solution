@@ -34,7 +34,7 @@ Accessibility is the practice of making your websites usable by as many people a
  web accessibility is essential in modern web development because it promotes equal access to digital content and services, aligns 
  with legal requirements, ethical principles, and benefits a diverse range of users. Creating accessible websites not only ensures 
  compliance but also contributes to a more inclusive, user-friendly, and socially responsible web environment.
-### benefits to different user groups:
+### Benefits to different user groups:
 - Semantic HTML, which improves accessibility, also improves SEO,making your site more findable.
 - Caring about accessibility demonstrates good ethics and morals, which improves your public image.
 - Other good practices that improve accessibility also make your site more usable by other groups, such as mobile phone users or those on low network speed. In fact, everyone can benefit from many such improvements.
