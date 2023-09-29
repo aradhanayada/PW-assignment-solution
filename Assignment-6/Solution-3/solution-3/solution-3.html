@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <link rel="stylesheet" href="solution-3.css">
+    <style>
+       
+    </style>
+</head>
+<body>
+    <nav style="background-color:rgb(109, 42, 109); color: black; border: 2px solid rgb(172, 58, 172);border-radius: 5px;">
+    <h1 style="text-align: center;">SIGN UP FORM</h1>
+    <p style="text-align: center ;">Please fill this form to create an account</p>
+</nav>
+<br>
+    <form action="form-in">
+        <div class="a1">
+            <label for="fname">First Name : </label>
+            <input placeholder="first name"  type="text" name="First name" id="fname" required min="3" max="15">
+        </div> 
+        <br>
+        <div class="a2" style="opacity: 0.5;">
+        <label for="lname">Last Name : </label>
+        <input placeholder="last name" type="text" name="Last name" id="lname" equired minlength="3" maxlength="15">
+    </div>
+    <br>
+    <div class="a3">
+        <label for="email">Email : </label>
+        <input placeholder="email" type="email" name="email" id="email"required min="3" max="15">
+        </div>
+        <br>
+        <div class="a4">
+        <label for="phone no.">Mobil no. : </label>
+        <select >
+            <option value="+91">+91</option>
+            <option value="+440">+440</option>
+            <option value="+321">+321</option>
+            <option value="+786">+786</option>
+            <option value="+88">+88</option>
+            <option value="+915">+915</option>  
+        </select>
+        <input placeholder="9877764821" type="number" name="no." id="phone no.0"required maxlength="10">
+    </div>
+    <br>
+    <div class="a5">
+        <fieldset>
+        <legend>Gender </legend><br>
+        <input type="radio" name="gender" id="gender">Male
+        <input type="radio" name="gender" id="gender">Female 
+    </fieldset>
+</div>
+<br>
+    <div class="a6">
+        <label for="age">Age : </label>
+        <input placeholder="21" type="number" name="age" id="age"required min="0" max="150">
+    </div>
+    <br>
+        <div class="a7">
+        <input type="button" value="SIGN UP">
+  </form>
+</div>
+    
+</body>
+</html>
