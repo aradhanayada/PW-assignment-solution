@@ -1,0 +1,16 @@
+.a1{
+   
+border: 5px solid yellow;
+}
+.a2{
+    border:5px  dotted yellow;
+}
+.a3{
+    border:5px  dashed yellow 
+}
+.a4{
+    border:5px  double yellow
+}
+.a5{
+    border:5px inset yellow
+}
