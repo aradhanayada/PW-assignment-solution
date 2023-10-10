@@ -1,4 +1,4 @@
-# Solution
+# Output
 ![Screenshot (118)](https://github.com/aradhanayada/PW-assignment1-solution/assets/103102710/c36532fd-4375-4bf5-b014-bbb06b930cc3)
 
 
