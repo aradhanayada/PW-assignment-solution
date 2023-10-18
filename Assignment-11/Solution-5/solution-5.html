@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document-5</title>
+    <style>
+      * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+       }
+      .contaner {
+        display: flex;
+        min-height: 100vh;
+        text-align: center;
+      }
+      .box-1,
+      .box-4 {
+        background-color: black;
+        color: white;
+        padding: 20px;
+      }
+      .box-2 {
+        background-color: rgb(20, 206, 20);
+        color: white;
+        padding: 20px;
+      height: 50%;
+      }
+      .box-3 {
+        background-color: rgb(218, 84, 6);
+        color: white;
+        padding: 20px;
+         height: 50%;
+      }
+      .boxes {
+      width: 100%;
+      }
+      @media screen and (max-width: 500px) {
+        .contaner {
+          flex-direction:column;
+        }
+        .boxes {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="contaner">
+      <div class="box-1"><p>Box1</p></div>
+
+      <div class="boxes">
+        <div class="box-2"><p>Box2</p></div>
+        <div class="box-3"><p>Box3</p></div>
+      </div>
+      <div class="box-4"><p>Box4</p></div>
+    </div>
+  </body>
+</html>
