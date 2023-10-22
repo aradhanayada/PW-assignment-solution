@@ -1,0 +1,42 @@
+/*using space selector to tagdet a tag*/
+li  a {
+    color:red
+}
+/*using child selector to tagdet the first h2 tag*/
+nav > h2 {
+    color: blue;
+    background-color: chartreuse;
+}
+/*using Adjacent Sibling Selector to tagdet the first h2 tag*/
+div + p{
+color: red;
+}
+/* attribute selector used */
+[href] {
+    color: red;
+    text-decoration: none;
+}
+/* attribute selector used */
+[class="active"]
+{
+    color: aqua;
+    text-decoration: underline;
+}
+/* attribute selector used */
+[target="_self"]
+{
+    background-color: black;
+}
+/* target last nth child of p */
+p:last-child::after{
+    content: "...";
+}
+/* target bullet  and change the color */
+li::marker{
+    color:darkcyan;
+}
+/* target even nth child first letter */
+p:nth-child(even)::first-letter{
+    color: red;
+    font-size: 30px;
+}
