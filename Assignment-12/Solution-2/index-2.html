@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Styled Navagation menu</title>
+    <style>
+      /* to remove list style type bullet points and text underlining of the
+Menu list items */
+      ul li a {
+        list-style: none;
+        text-decoration: none;
+      }
+      /* Use the child combinator to display the menu list item inlin */
+      ul > li {
+        display: inline;
+      }
+      /* Use the Adjacent sibling combinator selector to apply some margin between the menu list items. */
+      li + li {
+        margin: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Services</a></li>
+          <li><a href="#">Portfolio</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <!-- your content here -->
+    </main>
+  </body>
+</html>
