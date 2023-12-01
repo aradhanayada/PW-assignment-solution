@@ -1,4 +1,4 @@
-#SOLUTION
+# SOLUTION
 ## JavaScript in Web Development
 
 JavaScript is a versatile and widely-used programming language primarily employed for web development. It is a high-level, dynamic, and interpreted language, executed directly by web browsers without the need for compilation. JavaScript plays a crucial role in enhancing the interactivity and functionality of websites.
