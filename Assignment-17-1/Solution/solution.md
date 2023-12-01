@@ -1,7 +1,5 @@
 # SOLUTION
 # JavaScript:
-## Type:
-
 **JavaScript is a programming language.**
 It enables the creation of dynamic content, interaction with the user, and manipulation of the Document Object Model (DOM).
 Use Cases:
@@ -27,8 +25,6 @@ Use Cases:
     // Handle errors
    });
 # HTML:
-## Type:
-
 **HTML (Hypertext Markup Language)**  is a markup language.
 It defines the structure and presentation of content on a web page.
 Use Cases:
