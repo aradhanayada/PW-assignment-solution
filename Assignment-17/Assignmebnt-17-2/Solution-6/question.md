@@ -1,2 +1,2 @@
-## Q5. Write a JavaScript program that calculates the simple interest using the formula Simple interest =(principal * rate * time) / 100. 
+## Q6. Write a Javascript program to calculate the Body Mass Index (BMI) using the formula BMI = weight (kg)/ height * height.
 
