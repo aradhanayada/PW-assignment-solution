@@ -1,2 +1,2 @@
-### Question 6: Explain the importance of choosing meaningful and descriptive variable names in JavaScript. Provide an example where using a clear identifier improves code readability. 
+## Q5. Write a JavaScript program that calculates the simple interest using the formula Simple interest =(principal * rate * time) / 100. 
 
