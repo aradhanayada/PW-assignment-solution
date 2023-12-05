@@ -1,0 +1,1 @@
+# Q3. Explain what .gitignore is and why it’s important in version control
