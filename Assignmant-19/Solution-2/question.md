@@ -1,3 +1,3 @@
 # Question
 
-![Screenshot (266)](https://github.com/aradhanayada/PW-assignment1-solution/assets/103102710/4b37ef87-1cce-4dc7-a482-ad4b181478fb)
+![Screenshot (265)](https://github.com/aradhanayada/PW-assignment1-solution/assets/103102710/0bfa0fb5-1ecd-4840-9ec5-34cd06935b1c)
